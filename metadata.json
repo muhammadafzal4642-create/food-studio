@@ -1,0 +1,6 @@
+{
+  "name": "The Food Studio – Indian & Asian Cuisine in Falaj, Oman",
+  "description": "Discover delicious biryanis, flavorful Indian specialties, Asian rice and noodles, and special lunch combos at The Food Studio in Falaj, Oman. Order directly on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
